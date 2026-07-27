@@ -5,6 +5,7 @@ The purpose of this portfolio is to demonstrate my practical understanding of ne
 
 Rather than documenting only theoretical concepts, I use this repository to apply what I learn by building and configuring network topologies, testing connectivity, troubleshooting network issues, and documenting the process and results.
 
+
 ## 📚 Topics Covered
 This portfolio covers various networking concepts based on the CCNA curriculum, including:
 - Networking Fundamentals
@@ -27,6 +28,7 @@ This portfolio covers various networking concepts based on the CCNA curriculum, 
 - Network Troubleshooting
 - Basic Network Security
 
+
 ## 💻 Hands-On Labs
 Each lab is designed around a specific networking concept or real-world scenario. Labs typically include:
 - Objective – What the lab is designed to accomplish
@@ -37,3 +39,13 @@ Each lab is designed around a specific networking concept or real-world scenario
 - Verification – Commands and tests used to verify the configuration
 - Troubleshooting – Problems encountered and how they were resolved
 - Key Takeaways – Important concepts and lessons learned
+
+
+## 🛠️ Tools & Technologies
+- Cisco Packet Tracer
+- Cisco IOS
+- GitHub
+
+
+## 📌 Note
+This portfolio is a work in progress and will be continuously updated as I learn new networking concepts, complete additional labs, and develop more complex projects.
