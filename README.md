@@ -4,3 +4,25 @@ Welcome to my CCNA Networking Portfolio. This repository documents my hands-on l
 The purpose of this portfolio is to demonstrate my practical understanding of networking concepts through Cisco Packet Tracer labs, network configurations, troubleshooting scenarios, and hands-on projects.
 
 Rather than documenting only theoretical concepts, I use this repository to apply what I learn by building and configuring network topologies, testing connectivity, troubleshooting network issues, and documenting the process and results.
+
+## Topics Covered
+This portfolio covers various networking concepts based on the CCNA curriculum, including:
+- Networking Fundamentals
+- OSI and TCP/IP Models
+- Ethernet and Network Protocols
+- IPv4 Addressing
+- IPv4 Subnetting
+- VLANs
+- Access and Trunk Ports
+- Inter-VLAN Routing
+- Router-on-a-Stick
+- Static Routing
+- Dynamic Routing
+- OSPF
+- DHCP
+- NAT
+- Access Control Lists (ACLs)
+- Spanning Tree Protocol (STP)
+- EtherChannel
+- Network Troubleshooting
+- Basic Network Security
