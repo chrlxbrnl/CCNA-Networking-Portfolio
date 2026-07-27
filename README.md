@@ -1,4 +1,4 @@
-# CCNA Netwoorking Portfolio
+# CCNA Networking Portfolio
 Welcome to my CCNA Networking Portfolio. This repository documents my hands-on learning journey in computer networking and my preparation for the Cisco Certified Network Associate (CCNA) certification.
 
 The purpose of this portfolio is to demonstrate my practical understanding of networking concepts through Cisco Packet Tracer labs, network configurations, troubleshooting scenarios, and hands-on projects.
